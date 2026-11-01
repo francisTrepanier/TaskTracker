@@ -1,4 +1,3 @@
-*taskList.md
 .env
 __pycache__/
 *.pyc
@@ -8,3 +7,4 @@ dist/
 postgres-data/
 .coverage
 htmlcov/
+tmp/**
